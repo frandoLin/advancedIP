@@ -20,3 +20,5 @@ Nate Silver discusses the difficulty of predicting earthquakes in The Signal and
 - Correct number of deaths when there is more than one value. When there is more than one value given, choose the largest.
 - Create a new column ('deaths') that evaluates the four total-death columns ('PDE Total Deaths', 'Utsu Total Deaths', 'EM-DAT Total Deaths', and 'Other Source Deaths') and populates the new column with the highest value.
 - Explore the data in terms of when and where earthquakes occurred and how severe they were (magnitude, deaths, secondary effects).
+
+<a href="https://hazard_area_tn.html">Visit W3Schools</a>
